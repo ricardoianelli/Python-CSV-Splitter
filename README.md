@@ -3,13 +3,14 @@
     <img width=40% src="https://i.gifer.com/origin/ba/ba8ece67959d4cfd5dd45b44f21b34a6.gif">
 </p>
 
-<h3 align="center"> <img width=3% src="https://image.flaticon.com/icons/png/512/821/821037.png"> CSV Splitter <img width=3% src="https://image.flaticon.com/icons/png/512/821/821037.png"></h3>
+<h3 align="center"> 🔪 CSV Splitter 🔪</h3>
 
 <p align="center">
 A simple script to break a .csv file in multiple, smaller files. 
 </p>
 
-<h2><img width=3% src="https://image.flaticon.com/icons/png/512/821/821037.png">  How to use it? </h2>
+
+## 🥒 How to use it? 🔪
 
 Download it anywhere, then open a console/terminal/command line and run the following command:
 > pip install -r requirements.txt
